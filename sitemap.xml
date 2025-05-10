@@ -9,17 +9,22 @@
 
 <url>
   <loc>https://genemetric.ir/</loc>
-  <lastmod>2025-05-04T18:00:08+00:00</lastmod>
+  <lastmod>2025-05-09T21:54:35+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://genemetric.ir/index.html</loc>
-  <lastmod>2025-05-04T18:00:08+00:00</lastmod>
+  <lastmod>2025-05-09T21:54:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://genemetric.ir/service-details.html</loc>
-  <lastmod>2025-05-04T18:00:08+00:00</lastmod>
+  <lastmod>2025-05-09T21:54:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://genemetric.ir/news.html</loc>
+  <lastmod>2025-05-09T21:54:35+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
